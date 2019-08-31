@@ -8,7 +8,7 @@ Structure of graph:
 
 ![alt-text](assets/combined.jpg)
 
-Two versions are implemented. The first version only requires pinyin(拼音) match. The second version requires exact character match.
+Two versions are implemented. The first version only requires pinyin(拼音) match (left graph). The second version requires exact character match (right graph).
 
 |                | Nodes     | Edges
 | :------------- | :-------- | :---
@@ -22,4 +22,8 @@ ___
 * Version 1: [[idiom_graph_v1.ipynb](idiom_graph_v1.ipynb)]
 * Version 2: [[idiom_graph_v2.ipynb](idiom_graph_v2.ipynb)]
 
-![alt-text](assets/demo2.png)
+<p align="center">
+    <img src="assets/demo3.png" width="800">
+</p>
+
+
