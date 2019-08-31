@@ -1,6 +1,6 @@
 ### Idiom Graph - 成语接龙
 
-This repository uses neo4j graph database server to build a idiom graph. Given a Chinese idiom, the goal is to quickly find another idiom whose first character matches the last character of the given idiom. The process continues, until no more idiom can be found.
+This repository uses neo4j graph database server to build a idiom graph. Given a Chinese idiom, the goal is to find another idiom whose first character matches the last character of the given idiom. The process continues.
 
 Structure of graph:
 * Node: every character located at the beginning or end of an idiom creates a node
@@ -19,8 +19,8 @@ Note that there are 2507 distinct Chinese characters located at the beginning or
 
 ___
 #### Implementation
-* Version 1: [[idiom_graph_v1.ipynb](idiom_graph_v1.ipynb)]
-* Version 2: [[idiom_graph_v2.ipynb](idiom_graph_v2.ipynb)]
+* Version 1: pinyin/pronounciation match [[idiom_graph_v1.ipynb](idiom_graph_v1.ipynb)]
+* Version 2: exact character match [[idiom_graph_v2.ipynb](idiom_graph_v2.ipynb)]
 
 Sample query result: [output/坚定不移.csv](output/坚定不移.csv)
 <p align="center">
