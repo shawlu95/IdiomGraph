@@ -22,8 +22,7 @@ ___
 * Version 1: [[idiom_graph_v1.ipynb](idiom_graph_v1.ipynb)]
 * Version 2: [[idiom_graph_v2.ipynb](idiom_graph_v2.ipynb)]
 
+Sample query result: [output/坚定不移.csv](output/坚定不移.csv)
 <p align="center">
-    <img src="assets/demo3.png" width="800">
+    <img src="assets/demo3.png">
 </p>
-
-
