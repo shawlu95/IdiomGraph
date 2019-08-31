@@ -24,5 +24,5 @@ ___
 
 Sample query result: [output/坚定不移.csv](output/坚定不移.csv)
 <p align="center">
-    <img src="assets/demo3.png">
+    <img src="assets/demo.png">
 </p>

@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/
+.idea/
+doc/
+inputs/
+outputs/
+archive/
+*.pem
+master/
+tf_logs/
+datasets/
+us_department_of_labor/
+credentials.py
+__pycache__/
+*.xml
