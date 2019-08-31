@@ -22,4 +22,4 @@ ___
 * Version 1: [[idiom_graph_v1.ipynb](idiom_graph_v1.ipynb)]
 * Version 2: [[idiom_graph_v2.ipynb](idiom_graph_v2.ipynb)]
 
-![alt-text](assets/demo.png)
+![alt-text](assets/demo2.png)
