@@ -15,9 +15,11 @@ Two versions are implemented. The first version only requires pinyin(拼音) mat
 
 Note that there are 2507 distinct Chinese characters located at the beginning or end of idioms. Those characters have only 382 pronunciations. The number of edges is the same in both versions, because the number of idioms is the same. Graph 1 is denser than graph 2.
 
+![alt-text](assets/combined.jpg)
+
 ___
 #### Implementation
 * Version 1: [[idiom_graph_v1.ipynb](idiom_graph_v1.ipynb)]
 * Version 2: [[idiom_graph_v2.ipynb](idiom_graph_v2.ipynb)]
 
-![alt-text](assets/combined.jpg)
+![alt-text](assets/demo.png)
