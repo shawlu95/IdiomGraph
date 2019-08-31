@@ -17,7 +17,7 @@ Note that there are 2507 distinct Chinese characters located at the beginning or
 
 ___
 #### Implementation [[idiom_graph_v1.ipynb](idiom_graph_v1.ipynb)]
-<img src="assets/idiom_graph_v1.svg" width="700">
+<img src="assets/idiom_graph_v1.png" width="700">
 
 #### Implementation [[idiom_graph_v2.ipynb](idiom_graph_v2.ipynb)]
-<img src="assets/idiom_graph_v2.svg" width="700">
+<img src="assets/idiom_graph_v2.png" width="700">
