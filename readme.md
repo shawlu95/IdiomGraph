@@ -31,3 +31,21 @@ Sample query result: [output/坚定不移.csv](output/坚定不移.csv)
 <p align="center">
     <img src="assets/demo.png">
 </p>
+
+Follow installation guide for [python3](https://flask.palletsprojects.com/en/1.0.x/installation/#install-install-virtualenv).
+```bash
+mkdir api
+cd api
+
+# activate
+python3 -m venv venv
+. venv/bin/activate
+
+pip install Flask
+pip install py2neo
+pip install pandas
+
+export FLASK_APP=flaskr
+export FLASK_ENV=development
+flask run
+```
